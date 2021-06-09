@@ -1,9 +1,9 @@
-#Não Divulgue - Post Alert (Plugin WordPress)
+# Não Divulgue - Post Alert (Plugin WordPress)
 
-##[+] Objetivo
+## [+] Objetivo
 Enviar alerta para e-mail do aprovador assim que qualquer post entrar em revisão.
 
-##[+] Configurações
+## [+] Configurações
 As entradas abaixo devem ser inseridas e modificadas diretamente no wp-config.php.
 
 ```
